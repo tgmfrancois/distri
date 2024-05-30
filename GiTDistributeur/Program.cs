@@ -11,7 +11,7 @@ Console.WriteLine("Veuillez sélectionner une boisson");
 Console.WriteLine("1. Eau");
 Console.WriteLine("2. Soda");
 Console.WriteLine("3. Orangeade");
-
+// dans un monde idéal j'ai rajouté une boucle 
 choix = int.Parse(Console.ReadLine());
 switch (choix) 
 {
